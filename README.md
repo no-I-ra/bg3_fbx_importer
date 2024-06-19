@@ -9,7 +9,7 @@ An addon for Blender that allows you to import Baldur's Gate 3 FBX converted by 
 * Option to remove a suffix and/or prefix to the fbx file name.
 * Imports animation keys if `Is animation` is checked.
 * Add an armature modifier on ears and weight them to the Head_M bone.
-* Can import several FBX files at once by selected them.
+* Can import several FBX files at once.
 
 ## Installing
 
@@ -30,7 +30,7 @@ An addon for Blender that allows you to import Baldur's Gate 3 FBX converted by 
 * Click on `Install...`
 * Browse to the zip, select it and click on `Install Add-on`
 * In the addon list, search for `Noira's BG3 FBX Importer`
-* Check it to enable the addon. This will add the panel `Noira's BG3 FBX Importer` the right of the 3D View
+* Check it to enable the addon. This will add the panel `Noira's BG3 FBX Importer` to the right of the 3D View
 
 * For more information, please refer to Blender's guide for installing addons here: [Install from File](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html).
 
